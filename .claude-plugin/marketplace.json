@@ -1,0 +1,22 @@
+{
+  "name": "hotdata",
+  "owner": {
+    "name": "Hotdata",
+    "url": "https://www.hotdata.dev"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for Hotdata"
+  },
+  "plugins": [
+    {
+      "name": "hotdata-cli",
+      "source": {
+        "source": "github",
+        "repo": "hotdata-dev/hotdata-cli"
+      },
+      "description": "Teach Claude the Hotdata CLI: workspaces, databases, SQL, ingest, search, analytics, and geospatial",
+      "homepage": "https://www.hotdata.dev",
+      "category": "database"
+    }
+  ]
+}
