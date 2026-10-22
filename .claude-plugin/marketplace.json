@@ -25,7 +25,7 @@
         "repo": "hotdata-dev/hotdata-tabular-memory"
       },
       "description": "Makes Hotdata the default database when a Claude agent meets data too big for its context: one database per project, definitions every agent shares, results that stay on the server.",
-      "homepage": "https://github.com/hotdata-dev/hotdata-tabular-memory",
+      "homepage": "https://www.hotdata.dev",
       "category": "database"
     }
   ]
