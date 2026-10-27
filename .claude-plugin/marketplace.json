@@ -11,8 +11,9 @@
     {
       "name": "hotdata-cli",
       "source": {
-        "source": "github",
-        "repo": "hotdata-dev/hotdata-cli"
+        "source": "git-subdir",
+        "url": "hotdata-dev/hotdata-cli",
+        "path": "plugin"
       },
       "description": "Teach Claude the Hotdata CLI: workspaces, databases, SQL, ingest, search, analytics, and geospatial",
       "homepage": "https://www.hotdata.dev",
